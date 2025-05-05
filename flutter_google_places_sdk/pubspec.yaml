@@ -14,7 +14,7 @@ dependencies:
     git:
       url: https://github.com/scapia/flutter_google_places_sdk.git
       path: flutter_google_places_sdk_platform_interface
-    ref: master
+      ref: master
   flutter_google_places_sdk_ios: ^0.2.0
   flutter_google_places_sdk_web: ^0.2.0
   flutter_google_places_sdk_android: ^0.2.0
